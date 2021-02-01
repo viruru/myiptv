@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/kr.png" group-title="LABEL",TEST LABEL
-https://www.youtube.com/watch?v=o70MzTHHNbI&ab_channel=CoolVision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Logo-telemetro.svg" group-title="PANAMA",Telemetro
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (KR) (O-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
