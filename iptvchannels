@@ -9,6 +9,9 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/1200px-Logo_tvmax.png" group-title="PANAMA",TV Max 
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png" group-title="PANAMA",Oye  
+https://platform-static.cdn.mdstrm.com/js/player_api.js
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (KR) (O-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
