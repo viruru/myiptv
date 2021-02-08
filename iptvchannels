@@ -113,11 +113,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b26947
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="USA",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://i.imgur.com/oi83ML8.jpg" group-title="USA",National Geographic HD
+#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://i.imgur.com/oi83ML8.jpg" group-title="USA",National Geographic 
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="USA",Animal Planet HD
-https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="USA",AXN 
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 
 
 
@@ -130,35 +130,12 @@ https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png" group-title="Test",CINEMAX*
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 group-title="Test",CARTOON NETWORK ASIA
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="Test",Kbs World
-rtmp://118.97.183.196/jhos//kbs live=1
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/KcDXOqV.jpg?1" group-title="Test",AXN [ID]
-http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 
-#EXTINF:0 group-title="Test" tvg-logo="https://pbs.twimg.com/profile_images/1212736556307537921/L4iXj83t_200x200.jpg" twitter="NexPanama", NEX TV
-http://198.1.117.5:1935/live/livestream/playlist.m3u8
 
-#EXTINF:0 group-title="Test" tvg-name="Antena 3" tvg-logo="https://pbs.twimg.com/profile_images/1206928539750191105/L0iknTua_400x400.jpg" twitter="antena3com" aspect-ratio="1,85:1",Antena 3 España
-http://cdn2.interlibre.net/hls/149/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90ixyYB.jpg" group-title="Test",TVN Movies
-http://203.207.56.228/live/iptv009.m3u8
 
-#EXTINF:-1 tvg-id="FoxComedy.it"  tvg-logo="https://i.imgur.com/n8zormD.jpg?2" group-title="5-Movies",Fox Comedy [EN]
-http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8Fox-Comedy
-
-#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN
-http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8TVN
-
-#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN [SG]
-http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
-
-#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN Drama
-http://122.129.115.21:1935/edgedol/_definst_/tao132/chunklist_w1352633828.m3u8
 
 
 
