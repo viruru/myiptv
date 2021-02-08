@@ -134,35 +134,31 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="Test",Kbs World
-rtmp://118.97.183.196/jhos//kbs
+rtmp://118.97.183.196/jhos//kbs live=1
 
-#EXTINF:0 tvg-logo="http://www.novacable.com/images/logo_Bloomberg_TV.gif"group-title="Test",Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/KcDXOqV.jpg?1" group-title="Test",AXN [ID]
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 
-#EXTINF:0 group-title="Test",HBO
-rtmp://www1.iguide.to/iguide playpath=0bf02qe6msgtu4sswfUrl=http://www.iguide.to/player/secure_player_iguide_token.swfpageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free flashver=WIN/2019,0,0,185 live=1 token=#ed%h0#w18623jsda6523lDGD timeout=10
+#EXTINF:0 group-title="Test" tvg-logo="https://pbs.twimg.com/profile_images/1212736556307537921/L4iXj83t_200x200.jpg" twitter="NexPanama", NEX TV
+http://198.1.117.5:1935/live/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-name="HBO" tvg-language="English" tvg-country="US" tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/422px-HBO_logo.svg.png" group-title="Test",HBO 2
-http://yottzin.esy.es/st.php?IDE=385&user=conrado&pass=5353&f=.m3u8
+#EXTINF:0 group-title="Test" tvg-name="Antena 3" tvg-logo="https://pbs.twimg.com/profile_images/1206928539750191105/L0iknTua_400x400.jpg" twitter="antena3com" aspect-ratio="1,85:1",Antena 3 España
+http://cdn2.interlibre.net/hls/149/index.m3u8
 
-#EXTINF:0 tvg-name="A&E" tvg-language="English" tvg-country="US" tvg-id="A&E" tvg-logo="http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg" group-title="Test",A&E
-http://167.114.102.27/live/fe9X_ilamz8_tLKRQ38sLw/1455736112/bb38d9048b7b91706264169a031f32a4.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/90ixyYB.jpg" group-title="Test",TVN Movies
+http://203.207.56.228/live/iptv009.m3u8
 
-#EXTINF:0 tvg-name="History" tvg-language="English" tvg-country="US" tvg-id="History" tvg-logo="http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png" group-title="Test",History
-http://167.114.102.27/live/-fmFb7Q41tmUnTorinLgOg/1455736245/d4a4950b7b7267417aa0b9733f30b6fe.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:-1 tvg-id="FoxComedy.it"  tvg-logo="https://i.imgur.com/n8zormD.jpg?2" group-title="5-Movies",Fox Comedy [EN]
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8Fox-Comedy
 
-#EXTINF:0 tvg-name="Discovery Theater HD" tvg-language="English" tvg-country="US" tvg-id="Discovery Theater HD" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRimrEagvlJvrJ_E3VYqzIcS6ReYaHGHZt1hEyKEyfGwslP3VaFeIZIcA" group-title="Test",Discovery Theater HD
-http://200.76.77.237/LIVE/H01/CANAL351/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN
+http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8TVN
 
-#EXTINF:0 tvg-name="Discovery Channel" tvg-language="English" tvg-country="US" tvg-id="Discovery Channel" tvg-logo="http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg" group-title="Test",Discovery Channel 
-http://167.114.102.27/live/NUYr1Cj5jluxXmQ7XxyXtg/1455736192/a490ae75a3ec2acf16c9f592e889eb4c.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN [SG]
+http://50.7.161.82:8278/TVN/playlist.m3u8?tid=m02000000000012778588&ct=17982&tsum=8d4948e951d52e62699d90039b91c278
 
-#EXTINF:0 tvg-name="Antena 3 HD" tvg-language="Spanish" tvg-country="ES" tvg-id="Antena 3 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20141014151714/logopedia/images/0/05/Logo_Antena_3_HD_Premium.png" group-title="Test",Antena 3 HD 
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
-
-#EXTINF:0 tvg-name="M Net" tvg-language="Korean" tvg-country="MY" tvg-id="M Net" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Music_Makes_One_Mnet_Logo.png/200px-Music_Makes_One_Mnet_Logo.png" group-title="Test",M Net 
-http://ios.live.mnet.gscdn.com/liveIPhoneMNETsD/protected/liveIPhoneMNET2s_1000k.stream/chunklist_w0.m3u8?tid=0
-
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://i.imgur.com/gFJl3Ud.jpg?1" group-title="Test",tvN Drama
+http://122.129.115.21:1935/edgedol/_definst_/tao132/chunklist_w1352633828.m3u8
 
 
 
