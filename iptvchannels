@@ -12,6 +12,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/1200px-Patrick_Star.svg.png" group-title="PANAMA",Oye  
 https://platform-static.cdn.mdstrm.com/js/player_api.js
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="SOUTH KOREA",Arirang (KR) (O-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -81,6 +82,12 @@ http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-ytn-science.jpg" group-title="SOUTH KOREA",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqlTcbI.png"  group-title="SOUTH KOREA",TBS
+http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+
+#EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="JAPAN",TBSテレビ*
+http://203.162.235.41:16907
+
 #EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:TLC-Logo_2016.png" group-title="USA",TLC
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
@@ -93,23 +100,39 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FOXMovies" tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png" group-title="USA",FOX MOVIES
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Test",Nick
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://i.imgur.com/oi83ML8.jpg" group-title="USA",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="USA",Animal Planet HD
+https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.iptvhero.com/channel/hd-cinemax.png" group-title="Test",CINEMAX*
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1 tvg-id="NIC.US" tvg-logo="https://static.epg.best/au/Nickelodeon.au.png" group-title="Test",Nick
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=977&deviceId=5ca673e0d0bd6c2689c94ce3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-id="NGO.US" tvg-logo="http://i.imgur.com/oi83ML8.jpg" group-title="Test",National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="Test",Animal Planet HD
-https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Test",History
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="Test",History*
 http://103.47.132.164/PLTV/88888888/224/3221227335/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="Test",CNN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqyGk36C/cnn.png" group-title="Test",CNN*
 https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565946217550.png" group-title="Test",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png", KIX HD
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+Cartoon_Network_2010_logo.svg.png" group-title="Test", CARTOON NETWORK ASIA
+https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="NJR.US" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="Test",Nick Jr
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://imgstatic.vtvcab.vn/logos/PE_M.png" group-title="Test", PLANET EARTH
+https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/planetearthhd_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Test",MTV
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
