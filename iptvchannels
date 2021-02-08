@@ -125,7 +125,7 @@ http://103.47.132.164/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-id="FXC.Asia" tvg-logo="https://static.epg.best/qa/FoxCrime.qa.png" group-title="Test 1",FOX Crime
 http://103.47.132.164/PLTV/88888888/224/3221227165/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://rsstv.gviet.vn/sctv/159/235/1582342017035.png" group-title="Test 1",FX HD
+#EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/159/235/1582342017035.png" group-title="Test 1",FX HD
 http://103.47.132.164/PLTV/88888888/224/3221227139/index.m3u8
 
 
